@@ -75,6 +75,8 @@ public class Coche2 extends Application {
                 if(cocheY <= 350){
                     speedY = 1;
                 }
+              
+                
             };
         };
         
